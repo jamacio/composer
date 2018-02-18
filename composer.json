@@ -1,8 +1,14 @@
 {
-    "name": "jamacio/teste",
-    "description": "teste",
-    "require": {
-        "php": "^5.3.3 || ^7.0",
-        "another-vendor/package": "1.*"
-    }
+    "name": "jamacio/magento",
+    "description": "modulo composer teste",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Jamacio Rocha",
+            "email": "jamacio@hotmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
 }
